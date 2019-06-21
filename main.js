@@ -58,6 +58,6 @@ function copypastaCommand(arguments, receivedMessage) {
 }
 
 
-bot_secret_token = "NTkxMzI2NDk4MjQyNDI5MDEw.XQvOkw.mZ-S5qqgA813nyfRVGzMoxxx6EM"
+bot_secret_token = "TOKEN-GOES-HERE"
 
 client.login(bot_secret_token)
