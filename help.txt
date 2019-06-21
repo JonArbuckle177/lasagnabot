@@ -1,0 +1,3 @@
+`g!help`	- Displays this list
+`g!image`	- Shows a random image of Garfield
+`g!copypasta`	- Finds a random copypasta about Garfield
